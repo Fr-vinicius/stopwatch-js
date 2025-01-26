@@ -1,4 +1,4 @@
-# Contador
+# Stopwatch
 
 Um contador simples desenvolvido em **JavaScript** para ser usado diretamente no navegador. Perfeito para aprender manipulação de DOM e lógica de tempo.
 
